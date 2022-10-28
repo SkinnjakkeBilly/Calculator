@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyCalc.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "MyCalc.Repository": "1.0.0"
+        },
+        "runtime": {
+          "MyCalc.ConsoleApp.dll": {}
+        }
+      },
+      "MyCalc.Repository/1.0.0": {
+        "runtime": {
+          "MyCalc.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyCalc.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCalc.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

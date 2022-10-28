@@ -1,0 +1,15 @@
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/bin/Debug/net6.0/MyCalc.ConsoleApp
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/bin/Debug/net6.0/MyCalc.ConsoleApp.deps.json
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/bin/Debug/net6.0/MyCalc.ConsoleApp.runtimeconfig.json
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/bin/Debug/net6.0/MyCalc.ConsoleApp.dll
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/bin/Debug/net6.0/MyCalc.ConsoleApp.pdb
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/MyCalc.ConsoleApp.csproj.AssemblyReference.cache
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/MyCalc.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/MyCalc.ConsoleApp.AssemblyInfoInputs.cache
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/MyCalc.ConsoleApp.AssemblyInfo.cs
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/MyCalc.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/MyCalc.ConsoleApp.dll
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/refint/MyCalc.ConsoleApp.dll
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/MyCalc.ConsoleApp.pdb
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/MyCalc.ConsoleApp.genruntimeconfig.cache
+/Users/bendikbreidablikk/Projects/MyCalc/MyCalc.ConsoleApp/obj/Debug/net6.0/ref/MyCalc.ConsoleApp.dll
